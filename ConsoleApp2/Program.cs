@@ -11,6 +11,7 @@ namespace ConsoleApp2
             Console.WriteLine("Second commit");
             
             Console.WriteLine("Fourth commit");
+            Console.WriteLine("Fifth Local commit");
         }
     }
 }
