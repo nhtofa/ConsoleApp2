@@ -15,7 +15,7 @@ namespace ConsoleApp2
             Console.WriteLine("Six commit");
             Console.WriteLine("Seven commit");
             Console.WriteLine("Eight commit");
-            Console.WriteLine("Nine Local commit");
+            Console.WriteLine("Nine New Local commit");
         }
     }
 }
