@@ -9,8 +9,8 @@ namespace ConsoleApp2
             Console.WriteLine("Hello World!");
             Console.WriteLine("First Commit");
             Console.WriteLine("Second commit");
-            Console.WriteLine("Third local commit");
             
+            Console.WriteLine("Fourth commit");
         }
     }
 }
