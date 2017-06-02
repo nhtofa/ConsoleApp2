@@ -8,6 +8,8 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("First Commit");
+            Console.WriteLine("Second commit");
+            
         }
     }
 }
